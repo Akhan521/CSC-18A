@@ -1,0 +1,26 @@
+Instructions: Fill out your name under programmer name, the date and time you started the assignment, 
+the date and time you completed the assignment, total hours you dedicated to the assignment (should be
+a minimum of 1 1/2 hours for a good quality, well done assignment - rules of academic honesty apply for
+this), and any constructive comments you have about the assignment (could be things you liked about the 
+assignment; or if you had the opportunity to do the assignment all over again, what would you do 
+differently?) 
+
+Programmer Name: Aamir Khan
+
+Assignment Start: 1:50 PM
+
+Assignment Completion: 2:50 PM
+
+Total Hours for Assignment: 1 Hour
+
+Comments:
+This assignment was geared towards just giving me practice using BigDecimal objects.
+All I had to do was rewrite the Account class to use BigDecimal objects instead of
+doubles. I also had to utilize a few BigDecimal methods, such as the compareTo() and
+add() methods. In addition to these methods, I also had to familiarize myself
+with the BigDecimal constructor and the BigDecimal constants. The code was simply
+copy-pasted, and I just made a few adjustments to have the program work with 
+BigDecimals. If I had to do the assignment all over again, I'd clean up the test
+driver program, ask the user for the number of deposits they wish to make, and 
+loop through the deposits. I could even store the balances in an array of Account
+objects. I would also love to incorporate variable length arguments in this program.

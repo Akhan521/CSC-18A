@@ -1,0 +1,26 @@
+Instructions: Fill out your name under programmer name, the date and time you started the assignment, 
+the date and time you completed the assignment, total hours you dedicated to the assignment (should be
+a minimum of 1 1/2 hours for a good quality, well done assignment - rules of academic honesty apply for
+this), and any constructive comments you have about the assignment (could be things you liked about the 
+assignment; or if you had the opportunity to do the assignment all over again, what would you do 
+differently?) 
+
+Programmer Name: Aamir Khan
+
+Assignment Start: 10:20
+
+Assignment Completion: 11:20
+
+Total Hours for Assignment: 1 Hour
+
+Comments:
+This assignment provided me with some experience on using
+abstract classes and interfaces. I was also expected to
+do some research on the merits of using these two concepts
+and what they have to offer. I made a simple program that
+has one abstractclass and 2 abstract methods. In addition
+to the abstract class, I also implemented a very simple
+interface. If I had to do this assignment all over again,
+I'd add more properties and methods to all of my classes.
+I'd also create another interface named Prey to model animals
+that are preyed on.

@@ -1,0 +1,25 @@
+Instructions: Fill out your name under programmer name, the date and time you started the assignment, 
+the date and time you completed the assignment, total hours you dedicated to the assignment (should be
+a minimum of 1 1/2 hours for a good quality, well done assignment - rules of academic honesty apply for
+this), and any constructive comments you have about the assignment (could be things you liked about the 
+assignment; or if you had the opportunity to do the assignment all over again, what would you do 
+differently?) 
+
+Programmer Name: Aamir Khan
+
+Assignment Start: 12:30 AM
+
+Assignment Completion: 1:30 AM
+
+Total Hours for Assignment: 1 Hour
+
+Comments:
+In this assignment, I was able to implement and pratice using variable length arguments, so that was
+something new that I had to teach myself. It was an interesting task nonetheless, and I enjoyed
+working with arrays for this assignment. I also brought forth my knowledge on methods to simplify
+some of my programming logic. This assignment was very fun in the sense that it tested me on my
+ability to perform some more complicated tasks, while working with arrays. I also loved that it
+required me to implement printf and its format specifiers to align my results. If I had to do this
+assignment all over again, I would clean up some of my code and try to make it more challenging
+upon myself by implementing more methods that use variable length arguments. I find this concept
+quite fascinating, and I could definitely use more practice with this concept.
